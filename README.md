@@ -60,6 +60,10 @@ We notice that the distribution with respect to the age of people who survived a
  </p>
  As we suspected, the sex strongly influence the rate of survival. This makes sense since they were prioritizing woman of all ages to enter in the lifeboats.  
  
-<img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.52.52.png" width="360" height="280">
+  3. How does the class influenciate the survival rate
+ 
+  <p align="center">
+   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.52.52.png" width="360" height="280">
+  </p>
 <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.14.png" width="360" height="280">
 <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.36.png" width="360" height="280">
