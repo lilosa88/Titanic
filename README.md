@@ -33,7 +33,7 @@ In order to understand what influence the rate of survival we took a look at the
 <p align="center">
  <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.10.png" width="360" height="280">
 </p>
-We notice that the distribution with respect to the age of people who survived and did not survive are quite similar. However, seems that for young and old people we have a slightly difference.  
+We notice that the distribution with respect to the age of people who survived and did not survive are quite similar. However, seems that for young and old people we have a slightly difference. Let's look more in detail.
 
    - For old people (Age > 60 years old)      
    
@@ -43,13 +43,19 @@ We notice that the distribution with respect to the age of people who survived a
   |   male  |     0.1363    |  
 
 
-   - For young people (Age <= 20 years old)    |   Sex   | Survival Rate |
-                                               | ------- |:-------------:|
-                                               |  female |   0.688312    |
-                                               |   male  |   0.284314    |  
-
-
-<img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.55.png" width="360" height="280">
+   - For young people (Age <= 20 years old)  
+  |   Sex   | Survival Rate |
+  | ------- |:-------------:|
+  |  female |   0.688312    |
+  |   male  |   0.284314    |  
+  
+  We observed that in both cases, women has more chance of survive that men.
+ 2. How does the sex influenciate the survival rate
+ <p align="center">
+  <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.55.png" width="360" height="280">
+ </p>
+ 
+ 
 <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.52.52.png" width="360" height="280">
 <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.14.png" width="360" height="280">
 <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.36.png" width="360" height="280">
