@@ -30,6 +30,7 @@ For each passenger(i.e. each Passenger Id) the following information is given:
 # Data exploration
 In order to understand what influence the rate of survival we took a look at the relation that each feature has on it.
 1. How does the age influenciate the survival rate
+
 <p align="center">
  <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.10.png" width="360" height="280">
 </p>
@@ -51,7 +52,9 @@ We notice that the distribution with respect to the age of people who survived a
   |   male  |   0.284314    |  
   
   We observed that in both cases, women has more chance of survive that men.
+  
  2. How does the sex influenciate the survival rate
+
  <p align="center">
   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.55.png" width="360" height="280">
  </p>
