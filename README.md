@@ -67,7 +67,15 @@ We notice that the distribution with respect to the age of people who survived a
   </p>
   
   We separe the people by sex and we realize that even when women were more prone to survived, still the class influenced. Being the first class, the one with more rate of survival. 
-   
+
+  4. How does the class influenciate the survival rate
   
-<img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.14.png" width="360" height="280">
-<img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.36.png" width="360" height="280">
+  <p align="center">
+   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.14.png" width="360" height="280">
+  </p>
+
+  5. How does the class influenciate the survival rate
+
+  <p align="center">
+   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.36.png" width="360" height="280">
+  </p>
