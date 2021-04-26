@@ -11,6 +11,22 @@ This project belongs to [kaggle's competitions](https://www.kaggle.com/c/titanic
 - **Phyton Version:** 3.0
 - **Packages:** pandas, numpy, sklearn, seaborn, matplotlib
 
+# Data description
+
+For each passenger(i.e. each Passenger Id) the following information is given:
+
+- **Survival:** 0 = No, 1=Yes
+- **Pclass:** 1st = Upper, 2nd = Middle, 3rd = Lower
+- **Name:** Name of the passenger with corresponding title
+- **Sex:** female or male
+- **Age:** corresponding Age of the passenger
+- **Sibsp:** Number of siblings / spouses aboard the Titanic
+- **Parch:** Number of parents / children aboard the Titanic
+- **Ticket:** Ticket number of the passenger
+- **Fare:** Amount payed for the ticket 
+- **Cabin:** Number of the cabin
+- **Embarked:** Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampton
+
 # Data exploration
 
 
