@@ -33,22 +33,18 @@ In order to understand what influence the rate of survival we took a look at the
 <p align="center">
  <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.10.png" width="360" height="280">
 </p>
-We notice that the distribution respect to the age of people who survived and did not survive are quite similar. However, seems that for young and old people we have a slightly difference.  
+We notice that the distribution with respect to the age of people who survived and did not survive are quite similar. However, seems that for young and old people we have a slightly difference.  
 
-   - For old people (Age > 60 years old)
-
-|   Sex   | Survival Rate |
-| ------- |:-------------:|
-|  female |       1.0     |
-|   male  |    0.1363     |  
+   - For old people (Age > 60 years old)       |   Sex   | Survival Rate |
+                                               | ------- |:-------------:|
+                                               |  female |       1.0     |
+                                               |   male  |     0.1363    |  
 
 
-   - For young people (Age <= 20 years old)
-
-|   Sex   | Survival Rate |
-| ------- |:-------------:|
-|  female |   0.688312    |
-|   male  |   0.284314    |  
+   - For young people (Age <= 20 years old)    |   Sex   | Survival Rate |
+                                               | ------- |:-------------:|
+                                               |  female |   0.688312    |
+                                               |   male  |   0.284314    |  
 
 
 <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.55.png" width="360" height="280">
