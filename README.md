@@ -87,7 +87,7 @@ We notice that the distribution with respect to the age of people who survived a
   6. How does title influenciate the survival rate per class
   
   <p align="center">
-   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.36.png" width="360" height="280">
+   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.39.59.png" width="360" height="280">
   </p>
   
-  A new column was extracted by using the column name, which contains the title of each people. Thus we see
+  A new column was extracted by using the column name, which contains the title of each people.
