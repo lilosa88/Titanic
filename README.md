@@ -7,7 +7,8 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
 This project belongs to kaggle's competitions. The objective is to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). 
 
 # Data exploration
-![alt text,20%](https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.10.png)
+
+![my caption](./images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.10.png){ width=250px }
 
 jkfcjkwebfkw
 
