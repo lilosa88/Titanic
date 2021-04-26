@@ -8,8 +8,8 @@ This project belongs to [kaggle's competitions](https://www.kaggle.com/c/titanic
 
 # Code and Resources Used
 
-**Phyton Version:** 3.0
-**Packages:** pandas, numpy, sklearn, seaborn, matplotlib
+- **Phyton Version:** 3.0
+- **Packages:** pandas, numpy, sklearn, seaborn, matplotlib
 
 # Data exploration
 
