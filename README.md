@@ -29,7 +29,7 @@ For each passenger(i.e. each Passenger Id) the following information is given:
 
 # Data exploration
 In order to understand what influence the rate of survival we took a look at the relation that each feature has on it.
-1. How does the age influenciate the survival rate
+1. How does the age influence the survival rate
 
 <p align="center">
  <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.10.png" width="360" height="280">
@@ -53,14 +53,14 @@ We notice that the distribution with respect to the age of people who survived a
   
   We observed that in both cases, women has more chance of survive that men.
   
- 2. How does the sex influenciate the survival rate
+ 2. How does the sex influence the survival rate
 
  <p align="center">
   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.55.png" width="360" height="280">
  </p>
  As we suspected, the sex strongly influence the rate of survival. This makes sense since they were prioritizing woman of all ages to enter in the lifeboats.  
  
-  3. How does the class influenciate the survival rate
+  3. How does the class influence the survival rate
  
   <p align="center">
    <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.52.52.png" width="360" height="280">
@@ -68,7 +68,7 @@ We notice that the distribution with respect to the age of people who survived a
   
   We separe the people by sex and we realize that even when women were more prone to survived, still the class influenced. Being the first class, the one with more rate of survival. 
 
-  4. How does the embarked place influenciate the survival rate
+  4. How does the embarked place influence the survival rate
   
   <p align="center">
    <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.14.png" width="360" height="280">
@@ -76,7 +76,7 @@ We notice that the distribution with respect to the age of people who survived a
   
   The survival rate change depending where was the embarked place.
 
-  5. How does the family size aboard the Titanic influenciate the survival rate
+  5. How does the family size aboard the Titanic influence the survival rate
 
   <p align="center">
    <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.36.png" width="360" height="280">
@@ -84,7 +84,7 @@ We notice that the distribution with respect to the age of people who survived a
   
   The columns Sibsp and Parch were added in order to acount the total number of family members abord Titanic. 
   
-  6. How does title influenciate the survival rate per class
+  6. How does title influence the survival rate per class
   
   <p align="center">
    <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%2018.39.59.png" width="360" height="280">
