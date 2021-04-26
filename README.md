@@ -8,6 +8,8 @@ This project belongs to kaggle's competitions. The objective is to build a predi
 
 # Data exploration
 
+![test image size]<img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.10.png" width="40" height="20">
+
 <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.10.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 5px;" />
