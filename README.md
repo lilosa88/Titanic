@@ -91,3 +91,5 @@ We notice that the distribution with respect to the age of people who survived a
   </p>
   
   A new column was extracted by using the column name, which contains the title of each people.
+
+#EDA
