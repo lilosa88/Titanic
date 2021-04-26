@@ -68,14 +68,18 @@ We notice that the distribution with respect to the age of people who survived a
   
   We separe the people by sex and we realize that even when women were more prone to survived, still the class influenced. Being the first class, the one with more rate of survival. 
 
-  4. How does the class influenciate the survival rate
+  4. How does the embarked place influenciate the survival rate
   
   <p align="center">
    <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.14.png" width="360" height="280">
   </p>
+  
+  The survival rate change depending where was the embarked place.
 
-  5. How does the class influenciate the survival rate
+  5. How does the family size aboard the Titanic influenciate the survival rate
 
   <p align="center">
    <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.36.png" width="360" height="280">
   </p>
+  
+  The columns Sibsp and Parch were added in order to acount the total number of family members abord Titanic. 
