@@ -120,8 +120,6 @@ Columns such as Ticket and Fare will not give significant information, therefore
 
 ### Convertion of categorical columns
 
-Columns such as sex, embarked and title are categorical variable who need to be converted into continuous values. To do so, we create “dummy variables”. 
+Columns such as sex and embarked are categorical variable who need to be converted into continuous values. To do so, we create “dummy variables”. 
 
-### Normalize the continuos columns
 
-We normalize 
