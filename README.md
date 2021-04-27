@@ -34,7 +34,9 @@ In order to understand what influence the rate of survival we took a look at the
 <p align="center">
  <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.51.10.png" width="360" height="280">
 </p>
+
 We notice that the distribution with respect to the age of people who survived and did not survive are quite similar. However, seems that for young and old people we have a slightly difference. Let's look more in detail.
+
 
    - For old people (Age > 60 years old) : The rate of survival is 0.2692
    
