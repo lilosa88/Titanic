@@ -116,7 +116,7 @@ We encounter 3 columns with missing value: Age, Cabin and Embarked.
 
 ### Droop redundant or useless information
 
-Columns such as Ticket and Fare will not give significant information, therefore we droop them. On the ohter hand, from columns such as Name, SibSp and Parch information has been extracted, so we can drop them in order to avoid redundant information.
+Columns such as Ticket and Fare will not give significant information, therefore we droop them. On the ohter hand, from columns such as Name, Title, SibSp and Parch information has been extracted, so we can drop them in order to avoid redundant information.
 
 ### Convertion of categorical columns
 
