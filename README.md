@@ -99,4 +99,4 @@ We notice that the distribution with respect to the age of people who survived a
 We encounter 3 columns with missing value: Age, Cabin and Embarked. 
  - The column Cabin has 687 missing values out of 891 (more than 50%). Therefore it is better to droop the whole column.
  - The column Embarked has 2 missing values out of 891. In order to fill the missing information the pandas 'backfill' method was used as an imputation method.
- - The column Age has 177 missing values out of 891. In order to fill the missing information we made use of the column Title. We impute the age using the median age for all people with the same title.
+ - The column Age has 177 missing values out of 891. In order to fill the missing information we made use of the column Title. We impute the age using the median age for all people with the same title. 
