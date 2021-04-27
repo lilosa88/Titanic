@@ -82,7 +82,7 @@ We notice that the distribution with respect to the age of people who survived a
   4. How does the embarked place influence the survival rate
   
   <p align="center">
-   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%208.53.14.png" width="360" height="280">
+   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-27%20a%20la(s)%2014.25.55.png" width="360" height="280">
   </p>
   
   The survival rate change depending where was the embarked place.
