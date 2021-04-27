@@ -36,7 +36,7 @@ In order to understand what influence the rate of survival we took a look at the
 </p>
 We notice that the distribution with respect to the age of people who survived and did not survive are quite similar. However, seems that for young and old people we have a slightly difference. Let's look more in detail.
 
-   - For old people (Age > 60 years old)      
+   - For old people (Age > 60 years old) : The rate of survival is 0.2692
    
   |   Sex   | Survival Rate |
   | ------- |:-------------:|
@@ -44,14 +44,22 @@ We notice that the distribution with respect to the age of people who survived a
   |   male  |     0.1363    |  
 
 
-   - For young people (Age <= 20 years old)  
-  
+   - For young people (Age <= 20 years old) : The rate of survival is 0.458
+   
   |   Sex   | Survival Rate |
   | ------- |:-------------:|
   |  female |   0.688312    |
   |   male  |   0.284314    |  
   
-  We observed that in both cases, women has more chance of survive that men.
+  - For kids (Age < 10 years old) : The rate of survival is 0.593
+  
+  |   Sex   | Survival Rate |
+  | ------- |:-------------:|
+  |  female |   0.612903    |
+  |   male  |   0.575758    | 
+  
+  
+  The rate of survival is larger for young people, specially for kids. We observed that in all cases, women has more chances to survive that men.
   
  2. How does the sex influence the survival rate
 
