@@ -63,6 +63,7 @@ We notice that the distribution with respect to the age of people who survived a
   
   The rate of survival is larger for young people, specially for kids. We observed that in all cases, women has more chances to survive that men.
   
+  
  2. How does the sex influence the survival rate
 
  <p align="center">
