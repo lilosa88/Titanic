@@ -116,7 +116,7 @@ We encounter 3 columns with missing value: Age, Cabin and Embarked.
 
 ### Droop redundant or useless information
 
-Columns such as Ticket and Fare will not give significant information, therefore we droop them. On the ohter hand, from columns such as Name, Title, SibSp and Parch information has been extracted, so we can drop them in order to avoid redundant information.
+Columns such as Ticket and Fare will not give significant information, therefore we droop them. On the ohter hand, from columns such as Name, SibSp and Parch information has been extracted, so we can drop them in order to avoid redundant information.
 
 ### Convertion of categorical columns
 
@@ -126,7 +126,9 @@ Columns such as sex and embarked are categorical variable who need to be convert
 
 ### ML that does not need normalization
 - Random Forest
-
+ Random Forest's Accuracy:  0.82185
+ Random Forest's Accuracy:  0.8565
+ 
 ### ML that need normalization
 - Logistic Regression
 - KNN
