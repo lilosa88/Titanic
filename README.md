@@ -148,4 +148,4 @@ Columns such as sex and embarked are categorical variable who need to be convert
  
  Validation accuracy: 0.8699
 
-Conclusion:  The best accuracy was obtained by the Deep Learning model.  
+Conclusion:  The best accuracy was obtained by the Deep Learning model.   
