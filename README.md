@@ -126,17 +126,23 @@ Columns such as sex and embarked are categorical variable who need to be convert
 
 ### ML that does not need normalization
 - Random Forest
+ 
  Train Random Forest's Accuracy:  0.82185
  Test Random Forest's Accuracy:  0.8565
  
 ### ML that need normalization
 - Logistic Regression
+ 
  Train Logistic Regression's Accuracy:  0.7814
  Test Logistic Regression's Accuracy:  0.8026
  
 - KNN
+ 
  Train KNN's Accuracy:  0.8502
  Test KNN's Accuracy:  0.8475
  
 - Deep Learning
+ 
  Validation accuracy: 0.8699
+
+Conclusion:  The best accuracy was obtained by the Deep Learning model
