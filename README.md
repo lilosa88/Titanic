@@ -124,10 +124,10 @@ Columns such as sex and embarked are categorical variable who need to be convert
 
 # Machine Learning Models
 
-### Ml that does not need normalization
+### ML that does not need normalization
 - Random Forest
 
-### Ml that need normalization
+### ML that need normalization
 - Logistic Regression
 - KNN
 - Deep Learning
