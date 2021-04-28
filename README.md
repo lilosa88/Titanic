@@ -105,7 +105,7 @@ We notice that the distribution with respect to the age of people who survived a
   
   In conclusion: Women and kids had more chances to survive. As well, the class ticket played a role, being the 1st class the onces with more chances to survive. The age and the place of embarking was decisive for the suvival for mens.  People that travel with 1 or 3 people than 0 or more than 3, had more chances to survive.
   
-# Feature Engineering 
+# Feature Engineering  
 
 ### Missing values
 
