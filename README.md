@@ -122,4 +122,13 @@ Columns such as Ticket and Fare will not give significant information, therefore
 
 Columns such as sex and embarked are categorical variable who need to be converted into continuous values. To do so, we create “dummy variables”. 
 
+# Machine Learning Models
+
+### Ml that does not need normalization
+- Random Forest
+
+### Ml that need normalization
+- Logistic Regression
+- KNN
+- Deep Learning
 
